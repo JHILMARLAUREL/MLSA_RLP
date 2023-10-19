@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -34,13 +34,13 @@ const projectList = [
     title: "Lisa APK: Your Guide to Building Your PC from Scratch Without Breaking a Sweat 🖥️",
     description:
       "Lisa APK is your Android tool to guide kids and young tech enthusiasts through building their own PC from scratch. With step-by-step tutorials and an assembly simulator, it makes PC assembly easy and educational. 🖥️💡",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/RubenJhilmarLaurelPlata/LISA-APK.git",
   },
   {
     title: "Python Calculator Project",
     description:
       "An impressive Python project that creates a user-friendly calculator. This project showcases your coding skills and provides a practical tool for mathematical calculations. A great example of your programming abilities! 🐍🧮",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/RubenJhilmarLaurelPlata/CALCULADORA.PY.git",
   },
   {
     title: "My Resume Site",

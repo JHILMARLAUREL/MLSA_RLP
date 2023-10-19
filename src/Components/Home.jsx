@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/planeta.jpg";
+import image from "../images/lego.jpg";
 
-const imageAltText = "Jhilmar Laurel - App Designer & Content Creator. This is a planet in the dark."    
+const imageAltText = "Jhilmar Laurel - App Designer & Content Creator. This is a lego in the office."    
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
